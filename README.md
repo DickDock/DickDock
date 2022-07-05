@@ -1,6 +1,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DickDock)](https://github.com/DickDock/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DickDock&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DickDock)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
